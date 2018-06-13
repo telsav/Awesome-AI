@@ -10,8 +10,7 @@ Thanks to all contributors, you're awesome and wouldn't be possible without you!
 
 # Table of Contents
 * test
-  * test2
-  
+  * test2 
 *test3
 ## test4
 * test5
