@@ -9,8 +9,8 @@ Contributions are always welcome! Please take a look at the contribution guideli
 Thanks to all contributors, you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 # Table of Contents
-* test
-  * test2 
-*test3
+* .test
+  *.test2 
+* .test3
 ## test4
 * test5
