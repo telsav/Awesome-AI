@@ -12,6 +12,7 @@ Thanks to all contributors, you're awesome and wouldn't be possible without you!
 * .Net
   * CNTK
   * Mobius
+  * AirSim
 * Java
   * test3
 * Php
